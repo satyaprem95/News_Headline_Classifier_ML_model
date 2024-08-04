@@ -9,8 +9,13 @@ This project focuses on developing a machine learning classification model to pr
 
 # Key Features
 Data Preprocessing: Comprehensive preprocessing steps including data cleaning, lemmatization, and text normalization.
+
 Exploratory Data Analysis (EDA): Analysis to understand the data better and extract meaningful insights.
+
 Vectorization: Utilized techniques like bigrams and TF-IDF to convert text data into numerical features.
+
 Model Training: Implemented and compared two machine learning models—Random Forest and Logistic Regression.
+
 Model Evaluation: Techniques for evaluating the performance of the models.
+
 Prediction Function: A function to classify unknown news data and predict its category using the trained models.
